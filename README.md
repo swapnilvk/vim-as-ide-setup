@@ -26,3 +26,6 @@ Ctrl+P: Use this for file search
 
 Use ctrl+w w for moving the control between nerdtree, current file and tagbar
 
+Final output
+![](https://raw.githubusercontent.com/swapnilvk/vim-as-ide-setup/main/img/final-output.png)
+
