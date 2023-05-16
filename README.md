@@ -1,9 +1,11 @@
 # vim-as-ide-setup
-`$ git clone https://github.com/swapnilvk/vim-as-ide-setup.git`
+`1. $ git clone https://github.com/swapnilvk/vim-as-ide-setup.git`
 
-`$ cd vim-as-ide-setup.git`
+`2. $ cd vim-as-ide-setup.git`
 
-`$ sh install.sh`
+`3. $ sh install.sh`
+
+`4. Launch vim and type ":PluginInstall" and ENTER`
 
 >Note: Clone this repository and run install.sh without root previlages[sudo]
 
